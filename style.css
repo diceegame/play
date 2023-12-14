@@ -26,8 +26,8 @@ p{
 }
 button{
     position: absolute;
-    bottom: 75px;
-    width: 100px;
+    bottom: 125px;
+    width: 125px;
     padding: 10px;
     border-radius: 15px;
     background-color: orangered;
