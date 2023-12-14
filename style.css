@@ -26,8 +26,8 @@ p{
 }
 button{
     position: absolute;
-    bottom: 200px;
-    width: 200px;
+    bottom: 100px;
+    width: 125px;
     padding: 20px;
     border-radius: 15px;
     background-color: orangered;
@@ -39,8 +39,8 @@ button{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 25%;
+    width: 20%;
 }
 h2{
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
